@@ -1,5 +1,7 @@
 # Data-Structures
 
+In this class, I learned ways to analyze algorithms through time complexity and Big-O notation. I also learned about different data strucutures such as stack, queues, and a myriad of trees. With these data structures, I learned the ways to insert data, remove data, and process to search for data. I also able do investigate advanced sorting techniques. Towards the end of this course, I was able to understand the importance of the breath-first and depth-first graphs.
+
 # Project 1:
 
 Overview of Results:
